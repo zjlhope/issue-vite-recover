@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="50px" viewBox="0 0 60 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>空数据</title>
+    <defs>
+        <rect id="path-1" x="11.4041435" y="0" width="38" height="50" rx="4"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="38" height="50" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="翼起来（公有云）" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2.2总览(空数据)" transform="translate(-1202.000000, -460.000000)">
+            <g id="空数据" transform="translate(1202.000000, 460.000000)">
+                <rect id="矩形备份" stroke="#979797" stroke-width="2" fill="#E8E8E8" transform="translate(19.364143, 24.000000) rotate(-10.000000) translate(-19.364143, -24.000000) " x="4.40414347" y="4" width="29.92" height="40" rx="4"></rect>
+                <rect id="矩形备份-5" stroke="#979797" stroke-width="2" fill="#E8E8E8" transform="translate(40.364143, 24.000000) scale(-1, 1) rotate(-10.000000) translate(-40.364143, -24.000000) " x="25.4041435" y="4" width="29.92" height="40" rx="4"></rect>
+                <use id="矩形" stroke="#979797" mask="url(#mask-2)" stroke-width="4" fill="#FFFFFF" stroke-dasharray="6,2" xlink:href="#path-1"></use>
+                <path d="M30.8737669,30 C32.5306212,30 33.8737669,31.3431458 33.8737669,33 C33.8737669,34.6568542 32.5306212,36 30.8737669,36 C29.2169127,36 27.8737669,34.6568542 27.8737669,33 C27.8737669,31.3431458 29.2169127,30 30.8737669,30 Z M30.8737669,14 C32.789743,14 34.3429485,15.5532055 34.3429485,17.4691816 C34.3429485,17.6333394 34.3312969,17.7972901 34.3080815,17.959798 L32.8737669,28 L28.8737669,28 L27.4394523,17.959798 C27.1684924,16.0630784 28.486431,14.305827 30.3831505,14.034867 C30.5456584,14.0116516 30.7096092,14 30.8737669,14 Z" id="形状结合" fill="#AFAFAF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
